@@ -18,7 +18,11 @@ An interactive pathfinding visualizer using **A*** and **Hill Climbing** algorit
 - Simulation starts on hitting **space** and clearing results by hitting **c**.
 
 ## Hill Climbing Search Results
-[https://github.com/user-karthikeyan/Path-Finding-visualizer/blob/main/Hill-climbing.gif]
+<p align="center">
+  <img src="https://github.com/user-karthikeyan/Path-Finding-visualizer/blob/main/Hill-climbing.gif" />
+</p>
 
 ## A star search Results
-[https://github.com/user-karthikeyan/Path-Finding-visualizer/blob/main/A-star.gif]
+<p align="center">
+  <img src="https://github.com/user-karthikeyan/Path-Finding-visualizer/blob/main/A-star.gif" />
+</p>
